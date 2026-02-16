@@ -1,6 +1,6 @@
-package Vehicle;
+package DesignPatterns.StrategyPattern.Vehicle;
 
-import DriveStrategy.SportsDriveStrategy;
+import DesignPatterns.StrategyPattern.DriveStrategy.SportsDriveStrategy;
 
 public class SportsVehicle extends Vehicle {
 

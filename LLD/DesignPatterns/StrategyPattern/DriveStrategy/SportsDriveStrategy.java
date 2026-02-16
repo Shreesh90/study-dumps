@@ -1,4 +1,4 @@
-package DriveStrategy;
+package DesignPatterns.StrategyPattern.DriveStrategy;
 
 public class SportsDriveStrategy implements DriveStrategy{
 

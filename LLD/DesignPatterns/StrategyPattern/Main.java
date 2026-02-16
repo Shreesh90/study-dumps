@@ -1,10 +1,14 @@
+package DesignPatterns.StrategyPattern;
+
 import java.util.ArrayList;
 import java.util.List;
 
-import Vehicle.OffroadVehicle;
-import Vehicle.PublicTransport;
-import Vehicle.SportsVehicle;
-import Vehicle.Vehicle;
+import DesignPatterns.StrategyPattern.Vehicle.PublicTransport;
+import DesignPatterns.StrategyPattern.Vehicle.OffroadVehicle;
+import DesignPatterns.StrategyPattern.Vehicle.SportsVehicle;
+import DesignPatterns.StrategyPattern.Vehicle.Vehicle;
+
+
 
 public class Main {
     public static void main(String[] args) {

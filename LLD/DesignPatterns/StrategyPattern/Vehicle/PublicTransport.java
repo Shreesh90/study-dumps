@@ -1,6 +1,6 @@
-package Vehicle;
+package DesignPatterns.StrategyPattern.Vehicle;
 
-import DriveStrategy.NormalDriveStrategy;
+import DesignPatterns.StrategyPattern.DriveStrategy.NormalDriveStrategy;
 
 public class PublicTransport extends Vehicle {
 

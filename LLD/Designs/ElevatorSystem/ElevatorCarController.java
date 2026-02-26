@@ -23,7 +23,7 @@ public class ElevatorCarController implements Runnable {
     };
 
     private void enqueueRequest(int destinationFloor) {
-        System.out.println("Request details-> destinationFloor: " + destinationFloor + " accepted by elevator:" + elevatorCar.lift_id);
+        System.out.println("Request details-> destinationFloor: " + destinationFloor + " accepted by elevator:" + elevatorCar.lift_id + "Current_floor: " + elevatorCar.currFloor);
 
         if (destinationFloor == elevatorCar.nextFloorStoppage){
             return;

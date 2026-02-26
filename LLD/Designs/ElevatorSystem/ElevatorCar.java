@@ -1,8 +1,6 @@
 package Designs.ElevatorSystem;
 
 import Designs.ElevatorSystem.Enums.Direction;
-import Designs.ElevatorSystem.Enums.DoorState;
-import Designs.ElevatorSystem.Enums.Status;
 
 public class ElevatorCar {
     int lift_id;

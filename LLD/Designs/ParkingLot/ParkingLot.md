@@ -6,4 +6,5 @@
 - What about multiple entry and exit gates ?
 - What can be different payment methods and how will the payment be managed ?
 
+![](./images/ParkingLot.svg)
 

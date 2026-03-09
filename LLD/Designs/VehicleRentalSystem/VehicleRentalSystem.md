@@ -1,1 +1,0 @@
-![](./LLD_CarRentalSystem.svg)

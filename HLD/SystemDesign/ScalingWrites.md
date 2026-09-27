@@ -55,6 +55,7 @@
 ### 4.2 Hierarchical Aggregation
 * Used in most extreme cases
 * For high-volume data like analytics and stream processing, you often don't need to store individual events and instead need aggregated views.
+![alt text](../resources/hierarchialAggregation.png)
 
 ## Deep Dive
 ### 1. "How do you handle resharding when you need to add more shards?"

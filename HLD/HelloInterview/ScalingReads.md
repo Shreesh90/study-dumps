@@ -103,3 +103,6 @@
 * **Cache versioning**
   * Each record has a version number stored in the database (not in the cache). 
   * Whenever the record is updated, the version is incremented in the same transaction.
+
+## Note
+![alt text](../resources/scalingreads1.png)
